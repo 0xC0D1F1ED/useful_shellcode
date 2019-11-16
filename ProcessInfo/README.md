@@ -5,7 +5,7 @@
 ## Process Information
  This shellcode displays a Windows messagebox window containing the following detals: PID, Image Name, PPID
  Example:
- ![Sample popup](images/procinfo_msgbox.png)
+ ![Sample popup](../images/procinfo_msgbox.PNG)
 
 ### Source Code
  This shellcode was generated from the following source code:
